@@ -1,0 +1,9 @@
+Below you will find Pascal's triangle 
+The outer numbers are always 1
+Inner numbers are the sum of their neighbors above
+
+      1
+     1 1
+    1 2 1
+   1 3 3 1
+# replace me
